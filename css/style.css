@@ -1,0 +1,26 @@
+
+/* ******************************************* -- LAYOUT -- ******************************************* */
+
+
+
+body {
+    background-color: #ffffff;
+    list-style-position: inside;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.p-container {
+    display: flex;
+    justify-content: space-around;   
+}
+
+
+
+.h1-blue {
+    color: #525FE1;
+}
+
+.h2-orange {
+    color: #F86F03;
+}
