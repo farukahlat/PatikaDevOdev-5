@@ -12,9 +12,13 @@ body {
 
 .p-container {
     display: flex;
-    justify-content: space-around;   
+    justify-content: center;
 }
 
+.p-container p {
+    margin: 0;
+    padding: 0 10px;
+}
 
 
 .h1-blue {
